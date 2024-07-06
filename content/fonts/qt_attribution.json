@@ -1,0 +1,12 @@
+{
+    "Id": "sarabun",
+    "Name": "Sarabun Fonts",
+    "QDocModule": "automotive-demo",
+    "QtUsage": "Used in the Qt Ultralite Automotive Demo",
+    "Description": "The Sarabuns an open source multi-script webfont that supports both Latin and Thai.",
+    "Homepage": "https://fonts.google.com/specimen/Sarabun",
+    "License": "SIL Open Font LICENSE",
+    "LicenseId": "OFL",
+    "LicenseFile": "OFL.txt",
+    "Copyright": "Copyright (c) 2010-2013 by Software Industry Promotion Agency (Public Organization) (SIPA). All rights reserved."
+}
